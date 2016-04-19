@@ -2,6 +2,7 @@
 
 ## About 
 * Juan Carlos Herrera
+* Daniel Maxson
 * UCDD 2
 
 ## Development / Deployment
